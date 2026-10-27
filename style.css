@@ -1,0 +1,61 @@
+/* Estilo geral da página */
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fcfcfc;
+}
+
+/* Estilização dos títulos e linhas */
+h1 {
+    color: #2c5e3f;
+    margin-bottom: 5px;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 20px 0;
+}
+
+/* Estilização da tabela de produtos */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 30px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+/* Estilização do botão */
+button {
+    background-color: #2c5e3f;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: #1f422c;
+}
+
+/* Estilização do rodapé */
+footer {
+    font-size: 12px;
+    color: #666;
+    margin-top: 40px;
+}
