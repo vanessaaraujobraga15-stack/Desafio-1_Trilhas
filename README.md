@@ -13,9 +13,11 @@ Loja fictícia de papelaria que permite simular uma compra.
 - Mochila: R$ 80,00
 
 ## Tecnologias Utilizadas
-- HTML5
-- CSS3
-- JavaScript
+- HTML (linguagem)
+- CSS (linguagem)
+- JavaScript (linguagem)
+- VScode (IDE)
+- GitHub
 
 ## Instruções de Execução
 1. Faça o download ou clone este repositório.
